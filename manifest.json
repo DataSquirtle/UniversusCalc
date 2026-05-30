@@ -2,7 +2,7 @@
   "name": "UVS Combat Calc",
   "short_name": "UVS Calc",
   "description": "UVS TCG combat calculator and HP tracker",
-  "start_url": "/",
+  "start_url": "https://datasquirtle.github.io/UniversusCalc/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#111111",
